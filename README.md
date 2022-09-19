@@ -5,8 +5,12 @@ This is a simple clicker builded with Python!
 
 😋 Enjoy!
 
-Sharp Login
+#
+
+- Sharp Login
+
 ![sharp image](/src/sharp-l.png)
 
-Sharp Menu
+- Sharp Menu
+
 ![sharp image](/src/sharp.png)
